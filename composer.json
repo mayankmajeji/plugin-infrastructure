@@ -1,0 +1,38 @@
+{
+	"name": "MayankMajeji/plugin-infrastructure",
+	"description": "Reusable infrastructure relating to testing, building, and deploying my WordPress plugins",
+	"license": "MIT",
+	"type": "library",
+	"authors": [
+		{
+			"name": "MayankMajeji",
+			"homepage": "https://mayankmajeji.com/"
+		}
+	],
+	"funding": [
+		{
+			"type": "github",
+			"url": "https://github.com/sponsors/mayankmajeji"
+		}
+	],
+	"require": {
+		"php": ">=7.4"
+	},
+	"require-dev": {},
+	"bin": [
+		"bin/acceptance-tests",
+		"bin/build-vendor",
+		"bin/integration-tests",
+		"bin/tests-destroy",
+		"bin/tests-start",
+		"bin/tests-stop"
+	],
+	"config": {
+		"sort-packages": true
+	},
+	"scripts": {
+		"test": [
+			"composer validate --strict --no-check-lock"
+		]
+	}
+}
