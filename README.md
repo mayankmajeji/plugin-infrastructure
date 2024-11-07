@@ -1,3 +1,3 @@
-# WP Utility and Performance
+# Plugin Infrastructure
 
-This plugin allows you to enable / disable the unused resources included by WordPress and third-party themes and plugins.
+This repository is just a boilerplate for creating a WordPress plugin with basic configuration files. 
