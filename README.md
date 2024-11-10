@@ -6,8 +6,9 @@ Provided without support, warranty, guarantee, backwards compatibility, fitness 
 
 ## Used by
 
--   [WP Full Screen Search](https://github.com/MayankMajeji/wp-full-screen-search)
--   [WP Utility and Performance](https://github.com/WPMotive/WP-Utility-and-Performance)
+-   [WP Full Screen Search](https://github.com/mayankmajeji/wp-full-screen-search)
+-   [WP Utility and Performance](https://github.com/mayankmajeji/wp-utility-and-performance)
+-   [Enahnced Admin User Search](https://github.com/mayankmajeji/enhanced-admin-user-search)
 
 ## Licence
 
