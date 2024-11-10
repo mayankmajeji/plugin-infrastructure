@@ -1,6 +1,6 @@
 name: Deploy Assets to WordPress.org
 on:
-  release:
+  push:
     branches:
       - main
 jobs:
