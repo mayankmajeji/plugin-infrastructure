@@ -1,6 +1,6 @@
 # Plugin Infrastructure
 
-Reusable infrastructure relating to testing, building, and deploying my WordPress plugins (see the "Used by" section below).
+Plugin Infrastructure is a plugin boilerplate that I use to test, build, and deploy my WordPress plugins. (see the "Used by" section below).
 
 Provided without support, warranty, guarantee, backwards compatibility, fitness for purpose, resilience, safety, sanity, beauty, or support for any plugin that isn't one of mine.
 
@@ -12,4 +12,4 @@ Provided without support, warranty, guarantee, backwards compatibility, fitness 
 
 ## Licence
 
-MIT
+GPLv2
